@@ -1,0 +1,17 @@
+public class metodo1_1 {
+public static void main(String[] args) {
+
+	restar ();
+}
+
+	public static void restar(){
+
+		int x=12;
+		int y=6;
+		int resta= x-y;
+	
+		
+		System.out.println("el resutado es: "+resta);
+	}
+
+ }

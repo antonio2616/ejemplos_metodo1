@@ -1,0 +1,15 @@
+public class metodo1_2 {
+	public static void main(String[] args) {
+		multi();
+	}
+
+	public static void multi() {
+		int x=3;
+		int y=4;
+		int multipli=(x*y);
+		
+		System.out.println("el resultado es: "+multipli);
+
+	}
+
+ }
